@@ -20,7 +20,8 @@ p {
 }
 
 .experiences {
-    margin-left: 27.5%;
+    margin-left: 25%;
+    text-align: left;
 }
 li {
     list-style-type: square;
