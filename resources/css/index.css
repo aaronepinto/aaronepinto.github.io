@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+* {
+  font-family: monospace;
+  background-color: antiquewhite;
+  text-align: left;
+  font-size: 18px;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    padding-bottom: 18px;
+    text-align: center;
+}
+
+p {
+    padding-bottom: 4.5px;
+    text-align: center;
+}
+
+.experiences {
+    margin-left: 27.5%;
+}
+li {
+    list-style-type: square;
+    margin-left: 39%;
+    padding-bottom: 9px;
+}
+
+footer {
+    margin-left: 39.5%;
+}
+
+a{
+    text-decoration: none;
+    margin-right: 30px;
+}
+a:link {
+    color: firebrick;
+}
+
+a:visited {
+    color: indigo;
+}
